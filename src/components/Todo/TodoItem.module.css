@@ -1,0 +1,64 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    background-color: white;
+    color: black;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.checkbox {
+    margin-right: 10px;
+    /* vertical-align: middle;
+    display: flex; */
+}
+
+.checkbox input {
+    display: block;
+    margin-top: 10px;
+    width: 25px;
+    height: 25px;
+    accent-color: green;
+}
+
+.checkbox input:hover {
+    cursor: pointer;
+}
+
+.task-details {
+    display: flex;
+}
+
+.date {
+    margin: 0;
+}
+
+.label {
+    display: block;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    margin: 5px;
+    width: 35px;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.add-button{
+    color: black;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+.add-button:hover { 
+   color: blue;
+}

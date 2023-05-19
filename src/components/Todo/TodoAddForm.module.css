@@ -1,0 +1,39 @@
+
+.heading {
+    text-align: center;
+    color: black;
+}
+
+.add-input {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    height: 25px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+}
+
+.button-cancel {
+    border: none;
+    font-size: 1rem;
+    margin-right: 10px;
+    background-color: transparent;
+}
+
+.button-cancel:hover{
+    cursor: pointer;
+    color: red;
+}
+
+
+.actions {
+    margin-top: 25px;
+    text-align: end;
+}
+
+.error{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
