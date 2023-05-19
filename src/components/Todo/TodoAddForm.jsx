@@ -41,7 +41,7 @@ function TodoAddForm() {
   }
 
   return (
-    <Form onSubmit={onAddNewActionHandler}>
+    <Form onSubmit={onAddNewActionHandler} >
       <h1 className={classes.heading}>{todo ? 'Edit task' : 'Add a new task' }</h1>
       {error && (
         <p className={classes.error}>
