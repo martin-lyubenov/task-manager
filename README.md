@@ -1,6 +1,6 @@
 # task-manager
 
-![image](https://github.com/martin-lyubenov/task-manager/assets/52383146/fae0a98f-80a3-4d8c-a54e-cce091d7e617)
+![TodoTracker](https://github.com/martin-lyubenov/task-manager/assets/52383146/149badee-9f91-48eb-ae5f-8a5b04264ff5)
 
 Dear viewer, 
 
