@@ -18,7 +18,7 @@ Used dependencies:
 - React-Redux & Reduxjs/toolkit
 
 Things to bear in mind:
-- the 'app' is not conneted to a backend so all info is lost on reload. 
+- the 'app' is not conneted  to a backend so all info is lost on reload. 
 
 Please leave a comment. 
 
